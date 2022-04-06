@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^logar$ index.php?action=logar [QSA]
